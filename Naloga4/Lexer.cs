@@ -19,8 +19,7 @@ namespace Naloga4 {
         private readonly int[][] _avtomat = new int[MAX_STATE][]; //tabela prehodov
         private readonly int[] _koncnaStanja = new int[MAX_STATE]; // tabela konènih stanj
 
-        //konstruktor - odpre datoteko, preveri ce obstaja, ....
-        public Lexer(string imeDatoteke) {
+        private Lexer() {
             FileStream sw = File.Open("log.txt", FileMode.Create);
             Debug.Listeners.Add(new TextWriterTraceListener(sw));
             Debug.AutoFlush = true;
@@ -33,7 +32,15 @@ namespace Naloga4 {
 
             InitAvtomat();
             IzpisiTabelo();
+        }
+
+        //konstruktor - odpre datoteko, preveri ce obstaja, ....
+        public Lexer(string imeDatoteke) : this() {
             _datoteka = new StreamReader(imeDatoteke);
+        }
+
+        public Lexer(string besedilo, Encoding enc) : this() {
+            _datoteka = new StreamReader(new MemoryStream(enc.GetBytes(besedilo)));
         }
 
         private void IzpisiTabelo() {
