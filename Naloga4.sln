@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloga4", "Naloga4\Naloga4.csproj", "{406E40F3-DA71-441C-834D-8845C7A6ED66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5713A8-B83C-4B6A-B717-D836E638DA12}.Debug|x86.ActiveCfg = Debug|x86
+		{DE5713A8-B83C-4B6A-B717-D836E638DA12}.Debug|x86.Build.0 = Debug|x86
+		{DE5713A8-B83C-4B6A-B717-D836E638DA12}.Release|x86.ActiveCfg = Release|x86
+		{DE5713A8-B83C-4B6A-B717-D836E638DA12}.Release|x86.Build.0 = Release|x86
+		{406E40F3-DA71-441C-834D-8845C7A6ED66}.Debug|x86.ActiveCfg = Debug|x86
+		{406E40F3-DA71-441C-834D-8845C7A6ED66}.Debug|x86.Build.0 = Debug|x86
+		{406E40F3-DA71-441C-834D-8845C7A6ED66}.Release|x86.ActiveCfg = Release|x86
+		{406E40F3-DA71-441C-834D-8845C7A6ED66}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

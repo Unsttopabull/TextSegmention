@@ -1,0 +1,11 @@
+﻿Na CES-u je Intel predstavil podrobnosti o novih procesorjih iz družine Broadwell-U, ki so spričo porabe 15 do 28 W električne energije namenjeni varčnim napravam (ultrabookom, prenosnikom, mini-PC). 
+Peta generacija procesorjev Core, novih je kar 17 predstavnikov (modele si lahko pogledate v tabeli), bo na voljo sredi leta, so zatrdili.
+Čipi Broadwell-U predstavljajo peto generacijo in tako nasledijo četrto generacijo Haswell. Zgrajeni so v 14 nm tehnologiji s tranzistorji FinFET, kar pomeni, da gre za generacijo tik. 
+Intel namreč novosti predstavlja v ritmu izmeničnih tik-tok, kjer je tik nov proces (manjša litografija), tok pa nova arhitektura. 
+Novo jedro meri 82 kvadratnih milimetrov (staro 131) ter vsebuje 1,3 milijarde tranzistorjev (+30 odstotkov). Broadwell je tako v principu podoben Haswellu, le manjši je, s tem pa tudi varčnejši in hladnejši.
+Intel takole čez palec ocenjuje, da bodo naprave samo zaradi prehoda na nove čipe zdržale do poldrugo uro dlje. Višje število tranzistorjev kaže, da ne gre zgolj za miniaturiziran Haswell. 
+Izboljšana sta integrirana grafika in zvok. Video v ločljivosti 4K bo sedaj mogoče gledati brez uporabe zunanje grafične kartice. 
+Čipa sta dva - GT2 ima vgrajeno Intel HD 5500, GT3 pa Intel HD 6000 ali Iris 6100 grafiko. Vsi čipi podpirajo DirectX 12 in prinašajo okrog 20-odstotne pohitritve v 3D-grafiki ter pol hitrejšo konverzijo videa. 
+Najšibkejši čipi pa bodo imeli Intel HD Graphics 1 (GT1). Glavne razlike med njimi so število izvajalnih enot (execution units, EU) in takt. Slabše se novi procesorji odrežejo pri pisarniških programih in delu v operacijskem sistem, kjer so pohitritve zgolj štiriodstotne.
+To je manj od pričakovanih 10-30 odstotkov in kaže, kdo z nadgradnjo ne bo pridobil nič. Vsi predstavljeni novinci imajo dve jedri, izmed katerih so nekateri štirinitni, ostali pa dvonitni. 
+Štirijedrnike, ki bodo porabili od 45 W energije dalje, pričakujemo pozneje. Dražji čipi za namizne računalnike bodo to, medtem ko cenejši razred Broadwella ne bo videl in bo moral počakati na Skylake (naslednja generacija tok), ki bo prinesel novo arhitekturo na uveljavljen 14 nm postopek izdelave.
